@@ -1,3 +1,0 @@
-# Under Construction
-
--- Delilah Harris
