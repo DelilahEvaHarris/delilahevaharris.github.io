@@ -1,0 +1,50 @@
+image: assets/img/1653147238063.jpeg
+username: Delilah Harris
+description: Passionate about the pursuit of knowledge, particularly in Anthropology and Linguistic related fields. A reliable and hardworking employee, looking for experience in Geography and Anthropology related fields. Experienced in education and customer service. Archeology Field School certified.
+webpage: https://delilahevaharris.com
+experience: # Remove for hiding the experience section
+  - start: 2022-07-01
+    end: 2022-10-31
+    experience : WSP USA, Archeologist
+  - start: 2021-09-01
+    end: 2022-05-31
+    experience : Chess Wizards Inc., Chess Instructor
+  - start: 2017-02-01
+    end: 2021-09-30
+    experience : FOSS Swin School, Swim Instructor
+  - start: 2017-01-01
+    end: 2019-12-31
+    experience : Center for Urban Teaching, Teacher
+  - start: 2016-01-01
+    end: 2017-12-31
+    experience : Univ. of Wisconsin-Parkside, Music Librarian
+interests: # Remove for hiding the interests section
+  - Language Acquisition
+  - Endangered Languages
+  - Cultural Preservation
+  - Climate Change Adaptions
+  - Conservation
+skills: # Remove for hiding the skills section
+  - skill: Spanish
+    value: 100
+  - skill: German
+    value: 100
+social:
+  email: "Delilah.e.Harris@gmail.com"
+  orcid:
+  scholar:
+  publons:
+  research_gate:
+  dblp:  # Full URL
+  semantic_scholar:  # Full URL
+  linkedin: https://www.linkedin.com/in/delilah-harris-08674b23b/
+  github: DelilahEvaHarris
+  gitlab:
+  bitbucket:
+  google_plus:
+  twitter:
+  youtube:
+  facebook:
+  instagram:
+awards: # Remove for hiding the awards section
+  - "This is an award I got"
