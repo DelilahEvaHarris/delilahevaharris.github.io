@@ -1,27 +1,26 @@
 image: assets/img/itsme.jpeg
 username: Delilah Harris
-description: 
-With a distinguished Geography degree in their possession, their scholarly pursuits have revolved around the captivating realms of anthropology and international relations. They embark on ventures delving into the intricacies of diverse cultures and societies, perpetually kindling their insatiable curiosity. From unraveling the enigmas of ancient civilizations to dissecting the intricate tapestry of contemporary global dynamics, their intellectual fervor stems from comprehending the intricate interplay between humans and their surroundings. Endowed with a holistic perspective forged through interdisciplinary studies, they ardently seek to forge meaningful connections and bridge divides between individuals and nations.
+description: With a distinguished Geography degree in their possession, their scholarly pursuits have revolved around the captivating realms of anthropology and international relations. They embark on ventures delving into the intricacies of diverse cultures and societies, perpetually kindling their insatiable curiosity. From unraveling the enigmas of ancient civilizations to dissecting the intricate tapestry of contemporary global dynamics, their intellectual fervor stems from comprehending the intricate interplay between humans and their surroundings. Endowed with a holistic perspective forged through interdisciplinary studies, they ardently seek to forge meaningful connections and bridge divides between individuals and nations.
 webpage: https://delilahevaharris.com
 experience: # Remove for hiding the experience section
   - start: 2023-01-30
     end: 2023-05-01
-    experience : IES, Archeological Technician
+    experience: IES, Archeological Technician
   - start: 2022-07-01
     end: 2022-10-31
-    experience : WSP USA, Archeological Technician
+    experience: WSP USA, Archeological Technician
   - start: 2021-09-01
     end: 2022-05-31
-    experience : Chess Wizards Inc., Chess Instructor
+    experience: Chess Wizards Inc., Chess Instructor
   - start: 2017-02-01
     end: 2021-09-30
-    experience : FOSS Swim School, Swim Instructor
+    experience: FOSS Swim School, Swim Instructor
   - start: 2017-01-01
     end: 2019-12-31
-    experience : Center for Urban Teaching, Teacher
+    experience: Center for Urban Teaching, Teacher
   - start: 2016-01-01
     end: 2017-12-31
-    experience : Univ. of Wisconsin-Parkside, Music Librarian
+    experience: Univ. of Wisconsin-Parkside, Music Librarian
 interests: # Remove for hiding the interests section
   - Language Acquisition
   - Endangered Languages
@@ -54,4 +53,4 @@ social:
   instagram:
 Volunteer Work: # Remove for hiding the awards section
   - "Friendship Family 2022-01 to current: A cultural liaison for international students providing support, guidance, and fostering cross-cultural understanding for a seamless integration experience."
-  - "Everyone Cares Camp 2011-2014: As a camp counselor at an inclusive program for adults with cognitive and developmental disabilities, I provided round-the-clock attentive care, fostering meaningful friendships with assigned campers annually."
+  - "Everyone Cares Camp 2011-2014: As a camp counsellor at an inclusive program for adults with cognitive and developmental disabilities, I provided round-the-clock attentive care, fostering meaningful friendships with assigned campers annually."
