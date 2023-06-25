@@ -36,7 +36,7 @@ theme_settings:
   awards_title: AWARDS
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
-
+  volunteer_title: VOLUNTEER WORK
 # Pagination
 paginate: 4
 paginate_path: "blog/page:num"

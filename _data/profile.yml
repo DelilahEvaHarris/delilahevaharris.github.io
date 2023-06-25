@@ -51,6 +51,8 @@ social:
   youtube:
   facebook:
   instagram:
-Volunteer Work: # Remove for hiding the awards section
+volunteer:
   - "Friendship Family 2022-01 to current: A cultural liaison for international students providing support, guidance, and fostering cross-cultural understanding for a seamless integration experience."
   - "Everyone Cares Camp 2011-2014: As a camp counsellor at an inclusive program for adults with cognitive and developmental disabilities, I provided round-the-clock attentive care, fostering meaningful friendships with assigned campers annually."
+# awards:
+#   - "Biggest Flag 2023"
