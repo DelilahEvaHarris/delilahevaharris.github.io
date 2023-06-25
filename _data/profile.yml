@@ -29,9 +29,11 @@ interests: # Remove for hiding the interests section
   - Conservation
 skills: # Remove for hiding the skills section
   - skill: Spanish
-    value: 100
+    value: 75
   - skill: German
-    value: 100
+    value: 50
+  - skill: Italian
+    value: 20
 social:
   email: "Delilah.e.Harris@gmail.com"
   orcid:
