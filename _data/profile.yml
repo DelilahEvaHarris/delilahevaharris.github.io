@@ -3,9 +3,12 @@ username: Delilah Harris
 description: I hold a Geography degree, with a passion for anthropology and international relations. Exploring the intricacies of cultures and societies fuels my curiosity. From studying ancient civilizations to analyzing modern global dynamics, I thrive on understanding how humans shape and are shaped by their environments. Armed with a multidisciplinary lens, I aspire to bridge gaps and foster meaningful connections between people and nations.
 webpage: https://delilahevaharris.com
 experience: # Remove for hiding the experience section
+  - start: 2023-01-30
+    end: 2023-05-01
+    experience : IES, Archeological Technician
   - start: 2022-07-01
     end: 2022-10-31
-    experience : WSP USA, Archeologist
+    experience : WSP USA, Archeological Technician
   - start: 2021-09-01
     end: 2022-05-31
     experience : Chess Wizards Inc., Chess Instructor
@@ -46,5 +49,6 @@ social:
   youtube:
   facebook:
   instagram:
-awards: # Remove for hiding the awards section
-  - "This is an award I got"
+Volunteer Work: # Remove for hiding the awards section
+  - "Friendship Family 2022-01 to current: A cultural liaison for international students providing support, guidance, and fostering cross-cultural understanding for a seamless integration experience."
+  - "Everyone Cares Camp 2011-2014: As a camp counselor at an inclusive program for adults with cognitive and developmental disabilities, I provided round-the-clock attentive care, fostering meaningful friendships with assigned campers annually."
