@@ -3,6 +3,9 @@ username: Delilah Harris
 description: With a distinguished Geography degree in their possession, their scholarly pursuits have revolved around the captivating realms of anthropology and international relations. They embark on ventures delving into the intricacies of diverse cultures and societies, perpetually kindling their insatiable curiosity. From unraveling the enigmas of ancient civilizations to dissecting the intricate tapestry of contemporary global dynamics, their intellectual fervor stems from comprehending the intricate interplay between humans and their surroundings. Endowed with a holistic perspective forged through interdisciplinary studies, they ardently seek to forge meaningful connections and bridge divides between individuals and nations.
 webpage: https://delilahevaharris.com
 experience: # Remove for hiding the experience section
+  - start: 2023
+    end: current
+    experience: Senior Campus Coordinator
   - start: 2023-01-30
     end: 2023-05-01
     experience: IES, Archeological Technician
@@ -22,9 +25,8 @@ experience: # Remove for hiding the experience section
     end: 2017-12-31
     experience: Univ. of Wisconsin-Parkside, Music Librarian
 interests: # Remove for hiding the interests section
-  - Language Acquisition
-  - Endangered Languages
-  - Cultural Preservation
+  - UX/UI Design
+  - Qualitative Research Methods
   - Climate Change Adaptions
   - Conservation
 skills: # Remove for hiding the skills section
