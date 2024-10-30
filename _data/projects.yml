@@ -1,7 +1,7 @@
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url: url: "/figma-embed.html" # Full URL
+    url: "/figma-embed.html" # Full URL
     image:
       path: "remote.jpg" # path: assets/project/
       alt: "A screenshot of the portfolio page"
