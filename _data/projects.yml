@@ -1,14 +1,14 @@
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url: https://github.com/chrjabs/Grape-Academic-Theme # Full URL
+    url: url: "/figma-embed.html" # Full URL
     image:
-      path: "portfolio.png" # path: assets/project/
+      path: "remote.jpg" # path: assets/project/
       alt: "A screenshot of the portfolio page"
-    date: 05/2022 &ndash; Developing
-    title: Grape-Theme
-    summary: Academic portfolio jekyll theme.
-    description: A modification of the Grape-Theme for jekyll to be useable as an academic portfolio.
+    date: 10/2024 &ndash; Finalized
+    title: Elden Ring - A UX Case Study
+    summary: Explore my UX/UI journey through an immersive Elden Ring-inspired case study, showcasing thoughtful design, user-centered principles, and accessible interfaces.
+    description: Here, you'll find my insights, design process, and the skills I've developed as I transition into a career in UX/UI.
     contents:
         - title: 1. Portfolio Page
           image:
