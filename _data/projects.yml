@@ -30,15 +30,3 @@
             alt: "A screenshot of the tags page"
           description: <li>Responsive Layout</li> 
             <li>Tags</li> 
-
-- project:
-    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:  # "/figma-embed.html"
-   image:
-      path: "remote.png" # path: assets/project/
-      alt: "A screenshot of the portfolio page"   
-    date: 10/2024 &ndash; Finalized
-    title: Elden Ring - A UX Case Study
-    summary: Explore my UX/UI journey through an immersive Elden Ring-inspired case study, showcasing thoughtful design, user-centered principles, and accessible interfaces.
-    description: Here, you'll find my insights, design process, and the skills I've developed as I transition into a career in UX/UI.
