@@ -1,8 +1,0 @@
-{% if site.data.profile.volunteer %}
-  <p class="title">{{ site.theme_settings.volunteer_title }}</p>
-  <ul class="volunteer-list">
-    {% for volunteer in site.data.profile.volunteer %}
-    <li class="volunteer">{{ volunteer }}</li>
-    {% endfor %}
-  </ul>
-{% endif %}
